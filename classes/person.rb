@@ -2,7 +2,7 @@ class person
     attr_accessor :name, :age
     attr_reader :id
 
-    def initialize(name= 'unknown', age = nil, parent_permision: true)
+    def initialize(age, name = 'Unknown', parent_permission: true)
         @id = generate_id
         @name = name
         @age = age
@@ -20,7 +20,7 @@ class person
     end
 
     def generate_id
-        rand(1..1000)
+        @id = Random.rand(1..1000)
       end
     end
 
