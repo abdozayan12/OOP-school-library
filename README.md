@@ -151,6 +151,6 @@ I would like to thank microverse for this project
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/abdozayan12/OOP-school-library/pull/1/files#diff-8c8919216182c2f73954fc4c038407f3bb66c8740d3df3d12a5114356e5a775c) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
