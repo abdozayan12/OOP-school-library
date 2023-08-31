@@ -57,7 +57,7 @@ class App
 
   def list_books
     if @books.empty?
-      puts 'Sorry, No books available.'
+      puts 'No books available.'
     else
       @books.each do |book, index|
         puts "#{index} - Title: #{book.title}, Author: #{book.author}"
@@ -67,7 +67,7 @@ class App
 
   def list_people
     if @people.empty?
-      puts 'Sorry, No people available.'
+      puts 'No people available.'
     else
       @people.each_with_index do |person, index|
         puts "#{index}- [#{person.type}] Name: #{person.name}, ID: #{person.id}, Age: #{person.age}"
@@ -124,9 +124,9 @@ class App
 
   def create_rental
     if @books.empty?
-      puts 'Sorry, there is no book in the collection to rent out.'
+      puts 'There is no book in the collection to rent out.'
     elsif @people.empty?
-      puts 'Sorry, there is no person in the Database. Add a person first in the database'
+      puts 'There is no person in the Database. Add a person first in the database'
     else
       puts 'Select a book from the following list by number'
       @books.each_with_index { |book, index| puts "#{index} - Title: #{book.title}, Author: #{book.author}" }
@@ -148,7 +148,7 @@ class App
 
   def list_rentals
     if @rentals.empty?
-      puts 'Sorry, No rentals available.'
+      puts 'No rentals available.'
     else
       puts 'ID of person: '
       person_id = gets.chomp.to_i
