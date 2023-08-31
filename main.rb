@@ -2,7 +2,7 @@ require_relative 'app'
 
 app = App.new
 
-puts "Welcome to the School Library! \n\n"
+puts "Welcome to School Library App! \n\n"
 
 loop do
   puts 'Choose an option:'

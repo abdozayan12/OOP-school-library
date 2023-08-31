@@ -6,11 +6,12 @@ require_relative 'classes/rental'
 
 class App
   def initialize
-    @person = []
+    @persons = []
     @books = []
     @rentals = []
   end
 
+  # create person
   def create_person
     print 'Do you want to create a student (1) or a teacher(2)? [Input the number]:'
     input_result = gets.chomp
