@@ -1,0 +1,47 @@
+[33mbd657c7[m[33m ([m[1;36mHEAD -> [m[1;32madd-basic-UI[m[33m, [m[1;31morigin/add-basic-UI[m[33m)[m HEAD@{0}: commit: fix
+[33m8656942[m HEAD@{1}: commit: Update person.rb
+[33m5b01e62[m HEAD@{2}: commit: fix linters
+[33m7bc1b98[m HEAD@{3}: commit: Update
+[33m56414fe[m HEAD@{4}: commit: fix linters
+[33m2390ebd[m HEAD@{5}: commit: Create main.rb
+[33mc1fdfa8[m HEAD@{6}: commit: Create app.rb
+[33m4ae877d[m[33m ([m[1;31morigin/HEAD[m[33m, [m[1;31morigin/Dev[m[33m)[m HEAD@{7}: checkout: moving from set-up-associations to add-basic-UI
+[33m14e374a[m[33m ([m[1;31morigin/set-up-associations[m[33m, [m[1;32mset-up-associations[m[33m)[m HEAD@{8}: commit: Update classroom.rb
+[33m6d7389f[m HEAD@{9}: commit: Update classroom.rb
+[33m3ca3c28[m HEAD@{10}: commit: Update to match requirments
+[33maeef801[m HEAD@{11}: commit: fix linters
+[33m97e4a19[m HEAD@{12}: commit: fix linters
+[33m81cb346[m HEAD@{13}: commit: Update student.rb
+[33mc86fcd2[m HEAD@{14}: commit: Update person.rb
+[33me2da3bf[m HEAD@{15}: commit: Create rental.rb
+[33mf130178[m HEAD@{16}: commit: CREATE book.rb
+[33mc9ce479[m HEAD@{17}: commit: Create classroom.rb
+[33mcacb702[m HEAD@{18}: checkout: moving from decorate-a-class to set-up-associations
+[33m800eb85[m[33m ([m[1;31morigin/decorate-a-class[m[33m, [m[1;32mdecorate-a-class[m[33m)[m HEAD@{19}: commit: fix linters
+[33m6cec59c[m HEAD@{20}: commit: update
+[33m751f9e1[m HEAD@{21}: commit: Create trimmer_decorator.rb
+[33m7282bf2[m HEAD@{22}: commit: Update capitalize_decorator.rb
+[33mb86e287[m HEAD@{23}: commit: Create capitalize_decorator.rb
+[33m5ef74ce[m HEAD@{24}: commit: Add nameable & decorate .rb files & update person.rb
+[33ma069796[m HEAD@{25}: checkout: moving from add-Person,-Student-and-Teacher-classes to decorate-a-class
+[33m3c29af6[m[33m ([m[1;31morigin/add-Person,-Student-and-Teacher-classes[m[33m, [m[1;32madd-Person,-Student-and-Teacher-classes[m[33m)[m HEAD@{26}: reset: moving to 3c29af68e01aef11456c58eac90188e718a8fc11
+[33m213b61e[m HEAD@{27}: commit: Add nameable & decorate .rb files & update person.rb
+[33m3c29af6[m[33m ([m[1;31morigin/add-Person,-Student-and-Teacher-classes[m[33m, [m[1;32madd-Person,-Student-and-Teacher-classes[m[33m)[m HEAD@{28}: pull --ff --recurse-submodules --progress origin: Fast-forward
+[33mb55f783[m HEAD@{29}: reset: moving to HEAD
+[33mb55f783[m HEAD@{30}: checkout: moving from Dev to add-Person,-Student-and-Teacher-classes
+[33m7710f2a[m[33m ([m[1;32mDev[m[33m)[m HEAD@{31}: checkout: moving from dev to Dev
+[33m7710f2a[m[33m ([m[1;32mDev[m[33m)[m HEAD@{32}: checkout: moving from add-Person,-Student-and-Teacher-classes to dev
+[33mb55f783[m HEAD@{33}: commit: Update the files to fit requirement
+[33m1753dd5[m HEAD@{34}: commit: Update README.md
+[33m49aba77[m HEAD@{35}: commit: Update
+[33md41b224[m HEAD@{36}: commit: Update Teacher.rb
+[33m034cc26[m HEAD@{37}: commit: update
+[33m377e3cd[m HEAD@{38}: commit: move teacher.rb to classes
+[33me14f92b[m HEAD@{39}: commit: Create Teacher.rb
+[33mfdbb6af[m HEAD@{40}: commit: Create Student.rb
+[33ma2d8ecb[m HEAD@{41}: commit: Create person.rb
+[33m5bbc501[m HEAD@{42}: commit: Add RuboCop
+[33mbe86ed2[m HEAD@{43}: commit: Installing linters
+[33m68237f4[m[33m ([m[1;31morigin/Master[m[33m)[m HEAD@{44}: checkout: moving from Dev to add-Person,-Student-and-Teacher-classes
+[33m7710f2a[m[33m ([m[1;32mDev[m[33m)[m HEAD@{45}: commit: istalling linters
+[33m68237f4[m[33m ([m[1;31morigin/Master[m[33m)[m HEAD@{46}: clone: from https://github.com/abdozayan12/OOP-school-library.git
