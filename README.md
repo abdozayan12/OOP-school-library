@@ -109,6 +109,12 @@ it will install the required gemfile for running the project
 - Twitter: [@Abd elhakim Zayan](https://twitter.com/zayan_abdo)
 - LinkedIn: [@Abd elhakim Zayan](https://www.linkedin.com/in/abdozayan/)
 
+👤 **Munish Halai**
+
+- GitHub: [@Munish Halai](https://github.com/hmunish)
+- Twitter: [@Munish Halai](https://twitter.com/hmunish5)
+- LinkedIn: [@Munish Halai](https://www.linkedin.com/in/munish-halai/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
